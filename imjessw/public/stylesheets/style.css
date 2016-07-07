@@ -1,0 +1,31 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#banner{
+	background-image: url("../images/carpe.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 500px;
+}
+.a{
+	background-color: blue;
+}
+#bioPic{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.b{
+	background-color: yellow;
+	position: inherit;
+	vertical-align: middle
+
+}
+.shortBio{
+	width: 50%;
+}
+
