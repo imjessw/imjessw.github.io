@@ -12,20 +12,25 @@ a {
 	background-repeat: no-repeat;
 	height: 500px;
 }
-.a{
+#bio{
+	position:absolute;
+}
+.bioPicContainer{
 	background-color: blue;
 }
 #bioPic{
 	padding-top: 20px;
 	padding-bottom: 20px;
 }
-.b{
+
+#bioArea{
 	background-color: yellow;
-	position: inherit;
-	vertical-align: middle
+	height: 100%;
 
 }
 .shortBio{
-	width: 50%;
+	height: 100%;
+    width: 50%;
+
 }
 
