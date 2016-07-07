@@ -13,7 +13,7 @@ a {
 	height: 500px;
 }
 #bio{
-	position:absolute;
+
 }
 .bioPicContainer{
 	background-color: blue;
@@ -32,5 +32,12 @@ a {
 	height: 100%;
     width: 50%;
 
+}
+
+#hustles{
+	height: auto;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: red;
 }
 
