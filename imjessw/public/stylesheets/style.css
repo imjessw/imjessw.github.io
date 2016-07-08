@@ -7,17 +7,17 @@ a {
 }
 
 #banner{
-	background-image: url("../images/carpe.jpg");
+	background-image: url("../images/carpeAlt.jpg");
 	background-size: 100%;
 	background-repeat: no-repeat;
-	height: 500px;
+	height: 746px;
 }
 #bio{
 	height: 600px;
 
 }
 .bioPicContainer{
-	background-color: blue;
+/*	background-color: blue;*/
 	height: 600px;
 }
 #bioPic{
@@ -26,7 +26,7 @@ a {
 }
 
 #bioArea{
-	background-color: yellow;
+/*	background-color: yellow;*/
 	height: 100%;
 
 }
@@ -41,11 +41,11 @@ a {
 	height: auto;
 	padding-top: 50px;
 	padding-bottom: 50px;
-	background-color: red;
+/*	background-color: red;*/
 }
 
 #contact{
-	background-color: green;
+/*	background-color: green;*/
 	height: 300px;
 }
 
