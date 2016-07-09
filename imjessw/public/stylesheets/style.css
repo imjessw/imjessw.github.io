@@ -7,18 +7,15 @@ a {
 }
 
 #banner{
-	background-image: url("../images/carpeAlt.jpg");
+	background-image: url("../images/cp_1.jpg");
 	background-size: 100%;
 	background-repeat: no-repeat;
-	height: 670px;
+	height: 715px;
 }
-#bio{
-	height: 600px;
 
-}
 .bioPicContainer{
 /*	background-color: blue;*/
-	height: 600px;
+	height: 500px;
 }
 #bioPic{
 	padding-top: 67px;
@@ -35,6 +32,8 @@ a {
     width: 50%;
     padding-top:18%;
 
+
+
 }
 
 #hustles{
@@ -43,9 +42,10 @@ a {
 	padding-bottom: 50px;
 /*	background-color: red;*/
 }
-
-#contact{
-/*	background-color: green;*/
-	height: 300px;
+.contact{
+	display: inline-block;
+	font-size: 24px;
+	color: black;
 }
+
 
