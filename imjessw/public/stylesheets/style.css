@@ -7,18 +7,22 @@ a {
 }
 
 #banner{
-	background-image: url("../images/cp_1.jpg");
+	background-image: url("../images/Jess1.jpg");
 	background-repeat: no-repeat;
 	background-size: contain;
 	width: 100%;
 	height: 0;
-	padding-top: 66.64%;
+	padding-top: 56.64%;
 	margin-bottom: 10px;
 }
+#bio{
+	height: auto;
+	background-color: blue;
 
+}
 .bioPicContainer{
 /*	background-color: blue;*/
-	height: 500px;
+
 }
 #bioPic{
 	padding-top: 67px;
@@ -26,14 +30,16 @@ a {
 }
 
 #bioArea{
-/*	background-color: yellow;*/
+	background-color: yellow;
 	height: 100%;
 
 }
 .shortBio{
 /*	height: 400px;*/
     width: 75%;
-    padding-top:18%;
+    padding-top:35px;
+    padding bottom: 50px;
+    padding-top: 18%;
 
 
 
@@ -49,6 +55,15 @@ a {
 	display: inline-block;
 	font-size: 24px;
 	color: black;
+}
+#pm{
+	background-color: blue;
+}
+#hd{
+	background-color: green;
+}
+#photo{
+	background-color: orange;
 }
 
 
