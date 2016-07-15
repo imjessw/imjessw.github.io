@@ -13,19 +13,19 @@ a {
 	width: 100%;
 	height: 0;
 	padding-top: 56.64%;
-	margin-bottom: 10px;
+
 }
 #bio{
 	height: auto;
 
 }
 .bioPicContainer{
-/*	background-color: blue;*/
+
 
 }
 #bioPic{
 	padding-top: 67px;
-/*	padding-bottom: 20px;*/
+
 }
 
 #bioArea{
@@ -39,30 +39,38 @@ a {
     padding-top:35px;
     padding bottom: 50px;
     padding-top: 18%;
-
-
-
 }
 
-#hustles{
-	height: auto;
-	padding-top: 50px;
-	padding-bottom: 50px;
-/*	background-color: red;*/
-}
 .contact{
 	display: inline-block;
 	font-size: 24px;
 	color: black;
 }
+div#hustle {
+    margin-top: -7px;
+}
 #pm{
-	background-color: blue;
+	padding-top: 10px;
+	background-color: #A0BBFF;
 }
 #hd{
-	background-color: green;
+	padding-top: 10px;
+	background-color: #9cffd9;
 }
 #photo{
-	background-color: orange;
+	padding-top: 10px;
+	background-color: #6bffad;
 }
-
+#code{
+	padding-top: 10px;
+	background-color: #AE8FE0;
+}
+#teach{
+	padding-top: 10px;
+	background-color: #73D5E2;
+}
+#mentor{
+	padding-top: 10px;
+	background-color: #75AAEF;
+}
 
