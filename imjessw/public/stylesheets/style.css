@@ -17,7 +17,6 @@ a {
 }
 #bio{
 	height: auto;
-	background-color: blue;
 
 }
 .bioPicContainer{
@@ -30,7 +29,7 @@ a {
 }
 
 #bioArea{
-	background-color: yellow;
+
 	height: 100%;
 
 }
